@@ -1,2 +1,2 @@
 - Hi! I’m @vijayfisch, a sophomore in the Faculty of Data Science (CDS) at Boston University, with a minor in economics. I am also the lead senator for the CDS Program. 
-- I study data, economics, and social advocacy to craft and implement innovative public policy.
+- I study data, economics, and social advocacy to craft and implement innovative public policy solutions.
